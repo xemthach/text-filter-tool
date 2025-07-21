@@ -2,6 +2,9 @@
 
 A clean, simple Python GUI tool for filtering text files by keyword with multithreading support.
 
+<img src="text_filter_1.jpeg" alt="Demo" width="600"/>
+<img src="text_filter_2.jpeg" alt="Demo" width="600"/>
+<img src="text_filter_3.jpeg" alt="Demo" width="600"/>
 ## Features
 
 - **File/Folder Selection**: Choose a single `.txt` file or a folder containing multiple `.txt` files
