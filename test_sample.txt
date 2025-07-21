@@ -1,0 +1,6 @@
+user1@icloud.com:password123
+admin@gmail.com:adminpass
+support@icloud.com:helpdesk
+test@yahoo.com:testpass
+user2@icloud.com:anotherpassword
+contact@company.org:business123 

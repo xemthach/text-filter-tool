@@ -1,0 +1,70 @@
+[2025-07-21 17:37:06] Starting processing of 19 files with 1 filters
+[2025-07-21 17:37:06] Processing file: D:/Telegram Download\FREE @URLOGG412.txt
+[2025-07-21 17:37:06] Error processing file D:/Telegram Download\FREE @URLOGG412.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:06] Processing file: D:/Telegram Download\FREE @URLOGG413.txt
+[2025-07-21 17:37:06] Error processing file D:/Telegram Download\FREE @URLOGG413.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:06] Processing file: D:/Telegram Download\FREE @URLOGG414.txt
+[2025-07-21 17:37:07] Error processing file D:/Telegram Download\FREE @URLOGG414.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:07] Processing file: D:/Telegram Download\FREE @URLOGG415.txt
+[2025-07-21 17:37:07] Error processing file D:/Telegram Download\FREE @URLOGG415.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:07] Processing file: D:/Telegram Download\FREE @URLOGG416.txt
+[2025-07-21 17:37:08] Error processing file D:/Telegram Download\FREE @URLOGG416.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:08] Processing file: D:/Telegram Download\FREE @URLOGG417.txt
+[2025-07-21 17:37:08] Error processing file D:/Telegram Download\FREE @URLOGG417.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:08] Processing file: D:/Telegram Download\FREE @URLOGG418.txt
+[2025-07-21 17:37:08] Error processing file D:/Telegram Download\FREE @URLOGG418.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:08] Processing file: D:/Telegram Download\FREE @URLOGG419.txt
+[2025-07-21 17:37:09] Error processing file D:/Telegram Download\FREE @URLOGG419.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:09] Processing file: D:/Telegram Download\FREE @URLOGG42.txt
+[2025-07-21 17:37:09] Error processing file D:/Telegram Download\FREE @URLOGG42.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:09] Processing file: D:/Telegram Download\FREE @URLOGG420.txt
+[2025-07-21 17:37:09] Error processing file D:/Telegram Download\FREE @URLOGG420.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:09] Processing file: D:/Telegram Download\FREE @URLOGG421.txt
+[2025-07-21 17:37:10] Error processing file D:/Telegram Download\FREE @URLOGG421.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:10] Processing file: D:/Telegram Download\FREE @URLOGG422.txt
+[2025-07-21 17:37:10] Error processing file D:/Telegram Download\FREE @URLOGG422.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:10] Processing file: D:/Telegram Download\FREE @URLOGG423.txt
+[2025-07-21 17:37:10] Error processing file D:/Telegram Download\FREE @URLOGG423.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:10] Processing file: D:/Telegram Download\FREE @URLOGG424.txt
+[2025-07-21 17:37:11] Error processing file D:/Telegram Download\FREE @URLOGG424.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:11] Processing file: D:/Telegram Download\FREE @URLOGG425.txt
+[2025-07-21 17:37:11] Error processing file D:/Telegram Download\FREE @URLOGG425.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:11] Processing file: D:/Telegram Download\FREE @URLOGG426.txt
+[2025-07-21 17:37:11] Error processing file D:/Telegram Download\FREE @URLOGG426.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:11] Processing file: D:/Telegram Download\FREE @URLOGG427.txt
+[2025-07-21 17:37:12] Error processing file D:/Telegram Download\FREE @URLOGG427.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:12] Processing file: D:/Telegram Download\FREE @URLOGG428.txt
+[2025-07-21 17:37:12] Error processing file D:/Telegram Download\FREE @URLOGG428.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:12] Processing file: D:/Telegram Download\FREE @URLOGG429.txt
+[2025-07-21 17:37:12] Error processing file D:/Telegram Download\FREE @URLOGG429.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:37:12] File processing completed
+[2025-07-21 17:49:02] Starting processing of 1 files with 1 filters
+[2025-07-21 17:49:02] Processing file: D:/Telegram Download/FREE @URLOGG427testtttttttttttttttttttttttttt.txt
+[2025-07-21 17:49:02] Error processing file D:/Telegram Download/FREE @URLOGG427testtttttttttttttttttttttttttt.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:49:02] File processing completed
+[2025-07-21 17:49:50] Starting processing of 1 files with 1 filters
+[2025-07-21 17:49:50] Processing file: D:/Telegram Download/FREE @URLOGG427testtttttttttttttttttttttttttt.txt
+[2025-07-21 17:49:50] Error processing file D:/Telegram Download/FREE @URLOGG427testtttttttttttttttttttttttttt.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:49:50] File processing completed
+[2025-07-21 17:50:50] Starting processing of 1 files with 1 filters
+[2025-07-21 17:50:50] Processing file: D:/Telegram Download/FREE @URLOGG418.txt
+[2025-07-21 17:50:51] Error processing file D:/Telegram Download/FREE @URLOGG418.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:50:51] File processing completed
+[2025-07-21 17:51:41] Starting processing of 1 files with 1 filters
+[2025-07-21 17:51:41] Processing file: D:/Telegram Download/FREE @URLOGG418.txt
+[2025-07-21 17:51:42] Error processing file D:/Telegram Download/FREE @URLOGG418.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 17:51:42] File processing completed
+[2025-07-21 17:52:59] Starting keyword filtering for 'edu.vn' across 1 files
+[2025-07-21 17:52:59] Processing file for keyword 'edu.vn': D:/Telegram Download/FREE @URLOGG418.txt
+[2025-07-21 17:53:00] Found 790 matching lines in D:/Telegram Download/FREE @URLOGG418.txt
+[2025-07-21 18:10:01] Starting processing of 1 files with 1 filters
+[2025-07-21 18:10:01] Processing file: D:/Telegram Download/FREE @URLOGG413.txt
+[2025-07-21 18:10:01] Error processing file D:/Telegram Download/FREE @URLOGG413.txt: cannot access local variable 'os' where it is not associated with a value
+[2025-07-21 18:10:01] File processing completed
+[2025-07-21 18:10:37] Starting keyword filtering for 'edu.vn' across 1 files
+[2025-07-21 18:10:37] Processing file for keyword 'edu.vn': D:/Telegram Download/FREE @URLOGG413.txt
+[2025-07-21 18:10:37] Found 1376 matching lines in D:/Telegram Download/FREE @URLOGG413.txt
+[2025-07-21 18:15:26] Keyword: edu.vn, Matches: 1103, Output: result_21072025@edu.vn.txt
+[2025-07-21 18:16:09] Keyword: edu.vn, Matches: 16415, Output: result_21072025@edu.vn.txt
+[2025-07-21 18:19:59] Keyword: comcast.net, Matches: 3371, Output: result_21072025@comcast.net.txt
+[2025-07-21 20:59:22] Keyword: .edu.vn, Matches: 778519, Output: result_21072025@.edu.vn.txt
